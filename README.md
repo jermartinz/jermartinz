@@ -1,7 +1,6 @@
 ### Hey!👋
 
 
-##🚀 I’m currently learning to code.
-
+## 🚀 I’m currently learning to code.
 ![Me in pixart!](./jermartinz.png)
 
