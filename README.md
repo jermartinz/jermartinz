@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hey!👋
 
 
-##🌱 I’m currently learning to code 
+##🚀 I’m currently learning to code.
 
-!(/jermartinz/jermartinz.png)
+![Me in pixart!](./jermartinz.png)
 
