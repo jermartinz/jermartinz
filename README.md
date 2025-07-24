@@ -13,10 +13,6 @@ I'm currently studying programming at university, with the goal of becoming a pr
 
 I'm always looking to improve by learning something new — whether through university projects, online resources, or personal experimentation. My focus is on becoming a well-rounded developer capable of building practical and maintainable software.
 
-## 📫 Connect with me
-
-- GitHub: [@jermartinz](https://github.com/jermartinz)
-
 ---
 ![Linux](https://img.shields.io/badge/Linux-General-blue?logo=linux)
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white)
