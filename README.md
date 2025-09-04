@@ -5,7 +5,7 @@ I'm currently studying programming at university, aiming to become a professiona
 ## 🧠 Interests
 
 - 💻 **Backend Development** — I’m learning and experimenting with **Python** for server-side programming, building scripts, and understanding APIs.  
-- 🐧 **Linux & Dev Environments** — I use **Arch Linux** as my daily driver and enjoy customizing my workflow for efficiency.  
+- 🐧 **Linux & Dev Environments** — I use **Arch Linux** _btw_ as my daily driver and enjoy customizing my workflow for efficiency.  
 - ⚙️ **Development Tools** — Comfortable using **Git** and terminal-based tools to manage projects and improve productivity.
 
 ## 🚀 Learning Philosophy
