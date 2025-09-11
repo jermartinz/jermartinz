@@ -14,6 +14,9 @@ I’m always looking to improve by learning something new — through university
 
 ---
 
+
+
+[![Red Hat System Administration I](https://img.shields.io/badge/Red_Hat-RH124%20RHA-blue?logo=red-hat)](https://www.credly.com/badges/6511d384-4d79-47f2-8d59-c146baf0812d/public_url)
 ![Linux](https://img.shields.io/badge/Linux-General-blue?logo=linux)
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
