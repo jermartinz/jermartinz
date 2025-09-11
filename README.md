@@ -19,8 +19,6 @@ I’m always looking to improve by learning something new — through university
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
 
-> _"Learning by building. Growing through curiosity."_ 🔧
-
 
 
 
