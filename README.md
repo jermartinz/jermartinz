@@ -20,6 +20,7 @@ I’m always looking to improve by learning something new — through university
 ![Linux](https://img.shields.io/badge/Linux-General-blue?logo=linux)
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+[![C++ Essentials 1](https://img.shields.io/badge/C%2B%2B-Essentials%201-orange?logo=cplusplus)](https://www.credly.com/badges/620db8fc-4fcd-4382-8960-8d33fdafcd04/public_url)
 ![Git](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
 
 
